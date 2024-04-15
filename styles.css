@@ -1,25 +1,41 @@
 body {
+    background-color: #1A181B;
+    color: #EF6461;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
-  }
-
-  .checklist {
-    margin-bottom: 20px;
-    width: 60%; /* Adjust this value as needed */
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    border: 1px solid black;
     padding: 10px;
-  }
+}
+
+.checklist {
+    background-color: #3E8989;
+    color: #2CDA9D;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    color: #05F140;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #EF6461;
+    padding: 10px;
+}
+
+@media (min-width: 600px) {
+    .checklist {
+        width: 80%;
+    }
+}
+
+@media (min-width: 900px) {
+    .checklist {
+        width: 60%;
+    }
+}
