@@ -15,12 +15,11 @@ body {
 
 table {
     border-collapse: collapse;
-    color: #05F140;
     width: 100%;
 }
 
 th, td {
-    border: 1px solid #EF6461;
+    border: 1px solid;
     padding: 10px;
 }
 
