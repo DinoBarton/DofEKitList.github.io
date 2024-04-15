@@ -1,6 +1,4 @@
 body {
-    background-color: #1A181B;
-    color: #EF6461;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -11,8 +9,6 @@ body {
 }
 
 .checklist {
-    background-color: #3E8989;
-    color: #2CDA9D;
     margin-bottom: 20px;
     width: 100%;
 }
