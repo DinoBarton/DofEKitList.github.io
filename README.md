@@ -1,5 +1,5 @@
 # DofE Kit List
-Hello everyone. As a lil something to pass the time in the morning i made this checklist website fro the DofE expedition in the United Kingdom
+Hello everyone. I made this checklist website fro the DofE expedition in the United Kingdom
 
 ## Why I made it
 
