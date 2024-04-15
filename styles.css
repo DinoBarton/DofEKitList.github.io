@@ -23,6 +23,12 @@ th, td {
     padding: 10px;
 }
 
+.banner {
+    width: 100%;
+    height: 200px; /* Adjust this value to your liking */
+    object-fit: cover;
+}
+
 @media (min-width: 600px) {
     .checklist {
         width: 80%;
